@@ -28,3 +28,12 @@ The Client Secret should not be shared.
 For more Information visit
 https://api.slack.com/docs/oauth
 
+#SlackConnector
+
+Also checkout Slackconnector Library included in this project Github or Nuget Packages. 
+
+Github
+https://github.com/noobot/SlackConnector
+
+Nuget
+https://www.nuget.org/packages/SlackConnector
