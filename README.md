@@ -30,10 +30,12 @@ https://api.slack.com/docs/oauth
 
 #SlackConnector
 
-Also checkout Slackconnector Library included in this project Github or Nuget Packages. 
+Also checkout Slackconnector Library referenced in this project, Github or Nuget Packages. 
 
 Github
+
 https://github.com/noobot/SlackConnector
 
 Nuget
+
 https://www.nuget.org/packages/SlackConnector
