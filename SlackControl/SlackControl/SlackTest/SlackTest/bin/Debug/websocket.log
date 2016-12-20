@@ -1,0 +1,24 @@
+10/23/2016 3:21:01 PM|Fatal|WebSocket.processException:0|WebSocketSharp.WebSocketException: The header part of a frame cannot be read from the data source.
+                               at WebSocketSharp.WebSocketFrame.<>c__DisplayClass7.<ReadAsync>b__6(Byte[] header)
+                               at WebSocketSharp.Ext.<>c__DisplayClass6.<ReadBytesAsync>b__5(IAsyncResult ar)
+10/23/2016 3:21:01 PM|Fatal|WebSocket.error:0|System.InvalidOperationException: An attempt was made to transition a task to a final state when it had already completed.
+                               at System.Threading.Tasks.TaskCompletionSource`1.SetException(Exception exception)
+                               at SlackConnector.Connections.Sockets.WebSocketClient.<>c__DisplayClass12_0.<Connect>b__1(Object sender, ErrorEventArgs args)
+                               at WebSocketSharp.Ext.Emit[TEventArgs](EventHandler`1 eventHandler, Object sender, TEventArgs e)
+                               at WebSocketSharp.WebSocket.error(String message, Exception exception)
+10/25/2016 11:32:47 AM|Fatal|WebSocket.processException:0|WebSocketSharp.WebSocketException: The header part of a frame cannot be read from the data source.
+                                at WebSocketSharp.WebSocketFrame.<>c__DisplayClass7.<ReadAsync>b__6(Byte[] header)
+                                at WebSocketSharp.Ext.<>c__DisplayClass6.<ReadBytesAsync>b__5(IAsyncResult ar)
+10/25/2016 11:32:47 AM|Fatal|WebSocket.error:0|System.InvalidOperationException: An attempt was made to transition a task to a final state when it had already completed.
+                                at System.Threading.Tasks.TaskCompletionSource`1.SetException(Exception exception)
+                                at SlackConnector.Connections.Sockets.WebSocketClient.<>c__DisplayClass12_0.<Connect>b__1(Object sender, ErrorEventArgs args)
+                                at WebSocketSharp.Ext.Emit[TEventArgs](EventHandler`1 eventHandler, Object sender, TEventArgs e)
+                                at WebSocketSharp.WebSocket.error(String message, Exception exception)
+12/5/2016 1:07:17 PM|Fatal|WebSocket.processException:0|WebSocketSharp.WebSocketException: The header part of a frame cannot be read from the data source.
+                              at WebSocketSharp.WebSocketFrame.<>c__DisplayClass7.<ReadAsync>b__6(Byte[] header)
+                              at WebSocketSharp.Ext.<>c__DisplayClass6.<ReadBytesAsync>b__5(IAsyncResult ar)
+12/5/2016 1:07:17 PM|Fatal|WebSocket.error:0|System.InvalidOperationException: An attempt was made to transition a task to a final state when it had already completed.
+                              at System.Threading.Tasks.TaskCompletionSource`1.SetException(Exception exception)
+                              at SlackConnector.Connections.Sockets.WebSocketClient.<>c__DisplayClass12_0.<Connect>b__1(Object sender, ErrorEventArgs args)
+                              at WebSocketSharp.Ext.Emit[TEventArgs](EventHandler`1 eventHandler, Object sender, TEventArgs e)
+                              at WebSocketSharp.WebSocket.error(String message, Exception exception)

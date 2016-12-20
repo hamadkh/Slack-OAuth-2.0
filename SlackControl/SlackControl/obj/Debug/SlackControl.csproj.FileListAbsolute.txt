@@ -1,0 +1,68 @@
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\SlackControl.dll.config
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\SlackControl.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\SlackControl.pdb
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\Newtonsoft.Json.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\PresentationCore.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\PresentationFramework.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\RestSharp.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\SlackConnector.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\System.Design.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\System.Xaml.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\UIAutomationProvider.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\websocket-sharp-with-proxy-support.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\WindowsBase.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\Newtonsoft.Json.xml
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\RestSharp.xml
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\Slack.g.cs
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\SlackControl_MarkupCompile.cache
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\SlackControl_MarkupCompile.lref
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\Slack.baml
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\SlackControl.g.resources
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\SlackControl.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\SlackControl.pdb
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\SlackControl.csprojResolveAssemblyReference.cache
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\SlackControl.dll.config
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\SlackControl.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\SlackControl.pdb
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\Newtonsoft.Json.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\PresentationCore.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\PresentationFramework.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\RestSharp.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\SlackConnector.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\System.Design.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\System.Xaml.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\UIAutomationProvider.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\websocket-sharp-with-proxy-support.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\WindowsBase.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\Newtonsoft.Json.xml
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Debug\RestSharp.xml
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\SlackControl.csprojResolveAssemblyReference.cache
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\Slack.g.cs
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\SlackControl_MarkupCompile.cache
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\SlackControl_MarkupCompile.lref
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\Slack.baml
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\SlackControl.g.resources
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\SlackControl.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Debug\SlackControl.pdb
+E:\SlackControl\SlackControl\bin\Debug\SlackControl.dll.config
+E:\SlackControl\SlackControl\bin\Debug\SlackControl.dll
+E:\SlackControl\SlackControl\bin\Debug\SlackControl.pdb
+E:\SlackControl\SlackControl\bin\Debug\Newtonsoft.Json.dll
+E:\SlackControl\SlackControl\bin\Debug\PresentationCore.dll
+E:\SlackControl\SlackControl\bin\Debug\PresentationFramework.dll
+E:\SlackControl\SlackControl\bin\Debug\RestSharp.dll
+E:\SlackControl\SlackControl\bin\Debug\System.Design.dll
+E:\SlackControl\SlackControl\bin\Debug\System.Xaml.dll
+E:\SlackControl\SlackControl\bin\Debug\UIAutomationProvider.dll
+E:\SlackControl\SlackControl\bin\Debug\websocket-sharp-with-proxy-support.dll
+E:\SlackControl\SlackControl\bin\Debug\WindowsBase.dll
+E:\SlackControl\SlackControl\bin\Debug\Newtonsoft.Json.xml
+E:\SlackControl\SlackControl\bin\Debug\RestSharp.xml
+E:\SlackControl\SlackControl\obj\Debug\SlackControl.csprojResolveAssemblyReference.cache
+E:\SlackControl\SlackControl\obj\Debug\Slack.g.cs
+E:\SlackControl\SlackControl\obj\Debug\SlackControl_MarkupCompile.cache
+E:\SlackControl\SlackControl\obj\Debug\SlackControl_MarkupCompile.lref
+E:\SlackControl\SlackControl\obj\Debug\Slack.baml
+E:\SlackControl\SlackControl\obj\Debug\SlackControl.g.resources
+E:\SlackControl\SlackControl\obj\Debug\SlackControl.dll
+E:\SlackControl\SlackControl\obj\Debug\SlackControl.pdb

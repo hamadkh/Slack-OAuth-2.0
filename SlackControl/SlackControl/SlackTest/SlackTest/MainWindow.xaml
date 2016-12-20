@@ -1,0 +1,11 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SlackTest"
+        xmlns:SlackControl="clr-namespace:SlackControl;assembly=SlackControl" x:Class="SlackTest.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="454.759" Width="415.939">
+    <SlackControl:Slack HorizontalAlignment="Left" Margin="10,10,0,31" Height="Auto" Width="362" RenderTransformOrigin="0.507,0.496"/>
+</Window>

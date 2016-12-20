@@ -1,0 +1,32 @@
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\SlackTest.csprojResolveAssemblyReference.cache
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\SlackTest.csproj.SlackTest.exe.config
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\MainWindow.g.cs
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\App.g.cs
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\SlackTest_MarkupCompile.cache
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\SlackTest_MarkupCompile.lref
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\MainWindow.baml
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\SlackTest.exe
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\SlackTest.pdb
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\bin\Release\SlackTest.exe.config
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\SlackTest.exe
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\SlackTest.pdb
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\bin\Release\SlackTest.exe
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\bin\Release\SlackTest.pdb
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\bin\Release\SlackControl.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\bin\Release\SlackConnector.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\bin\Release\Newtonsoft.Json.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\bin\Release\RestSharp.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\bin\Release\websocket-sharp-with-proxy-support.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\bin\Release\SlackControl.pdb
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\bin\Release\Newtonsoft.Json.xml
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\bin\Release\RestSharp.xml
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\SlackTest.csprojResolveAssemblyReference.cache
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\SlackTest.csproj.SlackTest.exe.config
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\MainWindow.g.cs
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\App.g.cs
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\SlackTest_MarkupCompile.cache
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\SlackTest_MarkupCompile.lref
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\MainWindow.baml
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\SlackTest.g.resources
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\SlackTest.Properties.Resources.resources
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\SlackTest\SlackTest\obj\Release\SlackTest.csproj.GenerateResource.Cache

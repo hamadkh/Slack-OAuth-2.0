@@ -1,0 +1,46 @@
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\Slack.g.cs
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\SlackControl_MarkupCompile.cache
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\SlackControl_MarkupCompile.lref
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\Slack.baml
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\SlackControl.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\SlackControl.pdb
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\SlackControl.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\SlackControl.pdb
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\PresentationCore.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\PresentationFramework.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\System.Design.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\System.Xaml.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\UIAutomationProvider.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\WindowsBase.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\SlackControl.g.resources
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\SlackControl.csprojResolveAssemblyReference.cache
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\SlackControl.dll.config
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\Newtonsoft.Json.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\RestSharp.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\SlackConnector.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\websocket-sharp-with-proxy-support.dll
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\Newtonsoft.Json.xml
+\\BRSFS1\khawajah$\My Documents\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\RestSharp.xml
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\SlackControl.dll.config
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\SlackControl.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\SlackControl.pdb
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\Newtonsoft.Json.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\PresentationCore.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\PresentationFramework.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\RestSharp.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\SlackConnector.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\System.Design.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\System.Xaml.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\UIAutomationProvider.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\websocket-sharp-with-proxy-support.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\WindowsBase.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\Newtonsoft.Json.xml
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\bin\Release\RestSharp.xml
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\SlackControl.csprojResolveAssemblyReference.cache
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\Slack.g.cs
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\SlackControl_MarkupCompile.cache
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\SlackControl_MarkupCompile.lref
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\Slack.baml
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\SlackControl.g.resources
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\SlackControl.dll
+C:\WORK\projects\SlackESPN\SlackESPN\src\slack\SlackControl\SlackControl\obj\Release\SlackControl.pdb
