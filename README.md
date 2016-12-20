@@ -9,6 +9,8 @@ Uses client scope. Other scopes are available at :
 
 https://api.slack.com/docs/oauth-scopes
 
+Make sure to point your application to Redirect URI in the settings.
+
 Test application included 
 
 #Using OAuth 2.0
