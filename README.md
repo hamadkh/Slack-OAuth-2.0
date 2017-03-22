@@ -13,7 +13,7 @@ Make sure to point your application to Redirect URI in the settings.
 
 Test application included 
 
-#Using OAuth 2.0
+# Using OAuth 2.0
 
 OAuth 2.0 is a protocol that lets your app request authorization 
 
@@ -28,7 +28,7 @@ The Client Secret should not be shared.
 For more Information visit
 https://api.slack.com/docs/oauth
 
-#SlackConnector
+# SlackConnector
 
 Also checkout Slackconnector Library referenced in this project, Github or Nuget Packages. 
 
